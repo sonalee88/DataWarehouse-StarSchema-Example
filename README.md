@@ -66,3 +66,10 @@ from faker import Faker
 import random
 import sqlite3
 from datetime import datetime, timedelta
+
+
+
+```
+##SQLite Database Creation
+An in-memory SQLite database is created, and the schema is defined using SQL commands. Tables for customers, products, variants, dates, and orders are set up.
+
