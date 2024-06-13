@@ -155,10 +155,21 @@ conn.close()
 
 
 How to Run
+
+
+
+
 Clone the repository to your local machine.
+
 Ensure you have Python and the necessary libraries (pandas, Faker, sqlite3) installed.
+
 Run the Python script to create the database, generate data, and execute queries.
+
 Modify the SQL queries to suit your analysis needs.
+
+
+
+
 Contact
 For any questions or feedback, please reach out:
 guptasonalee88@gmail.com
