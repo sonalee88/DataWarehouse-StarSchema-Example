@@ -68,8 +68,14 @@ import sqlite3
 from datetime import datetime, timedelta
 
 
-
 ```
-##SQLite Database Creation
-An in-memory SQLite database is created, and the schema is defined using SQL commands. Tables for customers, products, variants, dates, and orders are set up.
+## How to Run
+1. Clone the repository to your local machine.
+2. Ensure you have Python and the necessary libraries (`pandas`, `Faker`, `sqlite3`) installed.
+3. Run the Python script to create the database, generate data, and execute queries.
+4. Modify the SQL queries to suit your analysis needs.
+
+## Contact
+For any questions or feedback, please reach out to [SonaliKumari](mailto:guptasonalee88@gmail.com).
+
 
